@@ -15,7 +15,7 @@ function BottomContainer() {
       <a class="footer-link" href="https://diksha02.github.io/cv/">
         Website
       </a>
-      <p class="last-line">© 2020 Diksha Nigam.</p>
+      <p class="last-line">© {new Date().getFullYear()} Diksha Nigam</p>
     </div>
   );
 }

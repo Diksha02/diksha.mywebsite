@@ -30,8 +30,8 @@ function MiddleContainer() {
           <h3>Programming</h3>
           <p>
             Programming is my passion and I have knowledge of programming
-            languages such as C, C++ & Java. My keen interest is in knowing
-            about their algorithms and datastructures and their applications.
+            languages such as Python, Javascript and Java. My keen interest is
+            in solving problems and automating tasks which take too much time.
           </p>
         </div>
         <div className="skill-row">
@@ -46,7 +46,7 @@ function MiddleContainer() {
             I love listening to music in my free time and some of my favourite
             artists are Panic! at the Disco, My Chemical Romance and
             Greenday.I'm a big fan of early 2000's rock music particularly right
-            now and my music taste keeps evolving.
+            now!
           </p>
         </div>
       </div>
